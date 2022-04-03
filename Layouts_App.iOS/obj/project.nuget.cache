@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWWX3utUDpIUpNRbk7MU6c4WfHxhz4nCayFe5803UF/TiErj4VFMkLWIZ67XglEVY8gzI+CHJSn1bjl4PYwX9g==",
+  "success": true,
+  "projectFilePath": "/Users/ingalember/Desktop/Layouts_App/Layouts_App.iOS/Layouts_App.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ingalember/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/ingalember/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

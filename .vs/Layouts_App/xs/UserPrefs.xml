@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{42524860-5175-4756-8E8C-D12989517017}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Layouts_App/StepperSlider_Page.xaml.cs" Line="25" Column="15" />
+      <File FileName="Layouts_App/BoxPage.xaml.cs" />
+      <File FileName="Layouts_App/MainPage.xaml.cs" />
+      <File FileName="Layouts_App/RGB.xaml.cs" />
+      <File FileName="Layouts_App.Android/Properties/AndroidManifest.xml" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Tooling.targets" />
+      <File FileName="Layouts_App.Android/Properties/AssemblyInfo.cs" />
+      <File FileName="Layouts_App.Android/MainActivity.cs" Line="12" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Layouts_App" expanded="True">
+            <Node name="Layouts_App" expanded="True">
+              <Node name="BoxPage.xaml" expanded="True" />
+              <Node name="Entry_Page.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="RGB.xaml" expanded="True" />
+              <Node name="StepperSlider_Page.xaml" expanded="True" />
+              <Node name="Timer_Page.xaml" expanded="True" />
+            </Node>
+            <Node name="Layouts_App.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="mipmap-hdpi" expanded="True" />
+                <Node name="mipmap-mdpi" expanded="True" />
+                <Node name="mipmap-xhdpi" expanded="True" />
+                <Node name="mipmap-xxhdpi" expanded="True" />
+                <Node name="mipmap-xxxhdpi" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Layouts__App.Android PreferredExecutionTarget="Android.Pixel_2_API_28" />
+</Properties>
